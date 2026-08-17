@@ -1,8 +1,8 @@
-# Andaman Isle CRM Android App
+# Matra Travel Tourism CRM Android App
 
 Simple Android WebView frame app for:
 
-`https://andamanisletravels.in/crm/`
+`https://crm.matraveltourism.com/newcrm/login`
 
 ## Included
 
@@ -24,7 +24,7 @@ Simple Android WebView frame app for:
 2. Upload all files from this project to the repository root.
 3. Open **Actions** > **Build Android APK**.
 4. Click **Run workflow**.
-5. After completion, open the workflow run and download the artifact named **Andaman-Isle-CRM-APK**.
+5. After completion, open the workflow run and download the artifact named **matra-travel-tourism-crm-apk**.
 6. Extract it to get `app-debug.apk`.
 
 The workflow also runs automatically after a push to `main` or `master`.
@@ -33,7 +33,7 @@ The workflow also runs automatically after a push to `main` or `master`.
 
 Edit:
 
-`app/src/main/java/com/andamanisletravels/crm/MainActivity.java`
+`app/src/main/java/com/matraveltourism/crm/MainActivity.java`
 
 Change the `HOME_URL` value.
 

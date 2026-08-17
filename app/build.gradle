@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.andamanisletravels.crm'
+    namespace 'com.matraveltourism.crm'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.andamanisletravels.crm'
+        applicationId 'com.matraveltourism.crm'
         minSdk 24
         targetSdk 35
         versionCode 1
